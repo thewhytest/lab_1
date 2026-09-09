@@ -3,8 +3,8 @@
 int main()
 {
 	setlocale(LC_CTYPE, "RUS");
-	puts("Моя программа");
+	puts("прога");
 	getchar();
-	puts("Продолжение программы");
+	puts("запуск");
 	return 0;
 }
